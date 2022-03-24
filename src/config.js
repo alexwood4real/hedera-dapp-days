@@ -1,8 +1,8 @@
 // TESTNET CREDENTIALS
 const operator = {
-	id: "0.0.2...",
-	pb_key: "302...",
-	pvkey: "302...",
+	id: "0.0.33991587",
+	pb_key: "302a300506032b6570032100693952d3bcb3e06afa94e9352a04dbf9faf48a8b81a8be598e3de68e102223bd",
+	pvkey: "302e020100300506032b6570042204207bc22445b1f1846654fb07a9c5efb73b061a20b89b51b3cf187f5cf2fa0e3a94",
 };
 
 export default operator;
